@@ -1,6 +1,6 @@
-# Portfolio App
+# Getting Started with Create React App
 
-The deployed app is https://renbrent.github.io/me/
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
